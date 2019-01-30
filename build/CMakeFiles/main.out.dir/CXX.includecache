@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/william.best/Documents/GitHub/VSCodeCMakeVcpkgSQLite/main.cpp
+iostream
+-
+sqlite3.h
+-
+
+/Users/william.best/vcpkg/installed/x64-osx/include/sqlite3.h
+stdarg.h
+-
+

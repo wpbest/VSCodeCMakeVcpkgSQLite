@@ -1,0 +1,3 @@
+/Users/william.best/Documents/GitHub/VSCodeCMakeVcpkgSQLite/build/CMakeFiles/rebuild_cache.dir
+/Users/william.best/Documents/GitHub/VSCodeCMakeVcpkgSQLite/build/CMakeFiles/edit_cache.dir
+/Users/william.best/Documents/GitHub/VSCodeCMakeVcpkgSQLite/build/CMakeFiles/main.out.dir

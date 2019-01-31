@@ -6,7 +6,7 @@ VSCode using CMake, Vcpkg, and SQLite
 ```
 mkdir build
 cd build
-cmake .. -DCMAKE_TOOLCHAIN_FILE=/Users/william.best/vcpkg/scripts/buildsystems/vcpkg.cmake"
+cmake .. "-DCMAKE_TOOLCHAIN_FILE=/Users/william.best/vcpkg/scripts/buildsystems/vcpkg.cmake"
 -- The C compiler identification is AppleClang 10.0.0.10001145
 -- The CXX compiler identification is AppleClang 10.0.0.10001145
 -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
